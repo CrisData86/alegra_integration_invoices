@@ -1,2 +1,8 @@
 # alegra_integration_invoices
-CRM Alegra automate the invoices creation
+"Automate the creation of invoices with CRM Alegra for better efficiency and accuracy."
+
+
+
+
+
+
